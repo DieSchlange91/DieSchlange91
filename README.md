@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DieSchlange91
-- 🌱 I’m currently working on my own Server Network [WolkenlosMC.de](WolkenlosMC)[https://links.wolkmc.de/
-]
+- 🌱 I’m currently working on my own Server Network [WolkenlosMC.de](https://links.wolkmc.de/)
 - 📫 How to reach me: dieschlange_91 on Discord
 - ⚡ Fun fact: Otters hold hands while sleeping to prevent drifting apart! They often form little "otter rafts" to float together on the water.
 
